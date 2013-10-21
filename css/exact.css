@@ -1,0 +1,23 @@
+body{
+    background-color: #EEEEEE;
+    font-family: arial, helvetica;
+    /*color: #ffffff;*/
+    margin: 0;
+}
+
+
+
+.header img{
+    margin: 12px 0 12px 20px;
+    height: 30px;
+}
+
+.conteudo{
+    position: relative;
+    float: left;
+    width: 960px;
+    left: 50%;
+    margin-left: -480px;
+    margin-top: 50px;
+    
+}
